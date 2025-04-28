@@ -21,7 +21,7 @@
 
 ## 📫 Contact Me
 
-[![Gmail Badge](https://img.shields.io/badge/-teerachaya.nk@gmail.com-green?style=flat-square&logo=Gmail&logoColor=white)](mailto:teerachaya.nk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/thirachaya-green?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/teerachaya-ngaesanthea-02288b321)
+[![Gmail Badge](https://img.shields.io/badge/-teerachaya.nk@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:teerachaya.nk@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/thirachaya-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/teerachaya-ngaesanthea-02288b321)
 
 ---
