@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hello! I'm Teerachaya</h1>
+<h1 align="center">👋 Hello! I'm Teerachaya Ng</h1>
 <p align="center">A software developer who loves clean code, green badges, and scalable systems 🚀</p>
 
 ---
 
 ## 💡 About Me
 - 🎓 Graduated in Computer Engineering
-- 🛠 Exploring the world of software development, from frontend to backend to DevOps
-- 🌱 Currently learning more about **Go**, **Java Spring Boot**
+- 🛠 Exploring the world of software development, from frontend to backend to Fullstack
+- 🌱 Currently learning more about **Go**, **Java Spring Boot**, **Vue.js**
 
 ---
 
