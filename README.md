@@ -21,6 +21,6 @@
 ## 📫 Contact Me
 
 [![Gmail Badge](https://img.shields.io/badge/-teerachaya.nk@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:teerachaya.nk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/thirachaya-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/teerachaya-ng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/teerachaya-ng)
 
 ---
