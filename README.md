@@ -6,7 +6,7 @@
 ## 💡 About Me
 - 🎓 Graduated in Computer Engineering
 - 🛠 Exploring the world of software development, from frontend to backend to Fullstack, and growing into a Software engineer.
-- 🌱 Currently learning more about **Go**, **Spring Boot**, **Vue.js**
+- 🌱 Currently learning more about **Go**, **Spring Boot**
 
 ---
 
