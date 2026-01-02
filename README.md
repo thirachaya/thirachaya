@@ -10,17 +10,9 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirachaya&layout=compact&theme=radical" height="150"/>
-</p>
-
----
-
 ## 📫 Contact Me
 
-[![Gmail Badge](https://img.shields.io/badge/-teerachaya.nk@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:teerachaya.nk@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-teerachaya.nga@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white)](mailto:teerachaya.nga@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/teerachaya-ng)
 
 ---
