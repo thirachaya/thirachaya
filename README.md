@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">hey, i'm Teerachaya 👋</h1>
 
-<!--
-**thirachaya/thirachaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🌱 learning something new every day.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+💻 Software Developer <br>
+⚡ angular · dotnet · postgresql
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=thirachaya&theme=transparent"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
