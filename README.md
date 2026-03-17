@@ -5,12 +5,11 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
 </p>
 
 <p align="center">
-💻 Software Developer <br>
-⚡ angular · dotnet · postgresql
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=💻+Software+Developer;Angular+%7C+.NET+%7C+PostgreSQL;" />
 </p>
 
 <p align="center">
