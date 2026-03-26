@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=thirachaya&theme=transparent"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thirachaya&show_icons=true&theme=transparent"/>
 </p>
 
 ---
