@@ -12,10 +12,6 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirachaya&layout=compact&theme=transparent"/>
-</p>
-
 ---
 
 <p align="center">
