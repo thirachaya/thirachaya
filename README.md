@@ -14,6 +14,14 @@
 
 ---
 
+<div align="center">
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thirachaya&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thirachaya&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
