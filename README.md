@@ -1,4 +1,5 @@
 <h1 align="center">hey, i'm Teerachaya 👋</h1>
+<h3>you can call me Ticha, if you're thai you can call me "นก"</h3>
 
 <p align="center">
 🌱 learning something new every day.
