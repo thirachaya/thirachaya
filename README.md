@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm Teerachaya 👋</h1>
+<h1 align="center">hi there, I'm Teerachaya 👋</h1>
 
 <p align="center">
 🌱 learning something new every day.
