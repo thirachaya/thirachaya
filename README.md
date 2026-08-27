@@ -12,6 +12,15 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=thirachaya&show_icons=true&theme=radical" alt="GitHub Stats" width="40%" height="150px" />
+  </a>
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=thirachaya&layout=compact&theme=radical" alt="Top Langs" width="40%" height="150px" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
